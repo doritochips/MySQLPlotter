@@ -1,0 +1,1 @@
+select cust_country, avg(opening_amt) as avg_opening_amount, avg(receive_amt)  as avg_receive_amount, avg(payment_amt) as avg_payment_amt  from customer group by cust_country;

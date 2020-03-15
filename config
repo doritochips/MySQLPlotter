@@ -1,0 +1,9 @@
+{
+  "db_config": {
+    "user": "root",
+    "password": "yuki",
+    "host": "localhost",
+    "database": "sample"
+  },
+  "output_dir": "C:\\Users\\David\\Desktop\\output"
+}
